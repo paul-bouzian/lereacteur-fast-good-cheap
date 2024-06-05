@@ -9,10 +9,6 @@ This project is a simple interactive application built with React and Tailwind C
 - Dynamic styling using Tailwind CSS.
 - Logic to ensure no more than two buttons can be active at the same time.
 
-## Demo
-
-![Demo](demo.gif)
-
 ## Getting Started
 
 Follow these instructions to set up and run the project locally.
@@ -27,6 +23,6 @@ Follow these instructions to set up and run the project locally.
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/button-toggle-project.git
+git clone https://github.com/paul-bouzian/lereacteur-fast-good-cheap.git
 cd button-toggle-project
 ```
